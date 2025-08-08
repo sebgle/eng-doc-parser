@@ -1,4 +1,4 @@
-# Text Data Extraction Scripts
+# Structured Text Processing Utilities
 
 This repository contains two Python scripts for extracting structured information from `.txt` files in a given folder and exporting the results to a CSV spreadsheet. They are designed to process text-based datasets with consistent formatting, automatically identify matching elements, and organize them into an easily analyzable format.
 
